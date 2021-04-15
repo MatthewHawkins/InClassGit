@@ -13,3 +13,8 @@ def multiply(a,b):
 
 multiply(3,4)
 
+
+def divide(a,b):
+    print(a/b)
+
+divide(4,4)
