@@ -1,2 +1,4 @@
 def calc(a,b):
-    pass
+    print(a+b)
+
+calc(3,4)
