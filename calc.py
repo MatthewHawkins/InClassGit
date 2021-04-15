@@ -1,20 +1,10 @@
 def calc(a,b):
-    print(a+b)
-
-calc(3,4)
-
-def subtract(a,b):
-    print(a-b)
-
-subtract(4,3)
-
-def multiply(a,b):
-    print(a*b)
-
-multiply(3,4)
+    sum = a+b
+    difference = a-b
+    product = a*b
+    quotient = a/b
+    my_list = [sum, difference, product, quotient]
 
 
-def divide(a,b):
-    print(a/b)
 
-divide(4,4)
+
