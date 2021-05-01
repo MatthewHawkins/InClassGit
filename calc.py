@@ -1,10 +1,12 @@
-def calc(a,b):
-    sum = a+b
-    difference = a-b
-    product = a*b
-    quotient = a/b
-    my_list = [sum, difference, product, quotient]
+def add(a,b):
+    return a + b
 
+def subtract(a,b):
+    return a - b
 
+def multiply(a,b):
+    return a * b
 
+def divide(a,b):
+    return a / b
 
